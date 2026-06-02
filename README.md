@@ -8,6 +8,24 @@ Built using MySQL, SQL, Power BI, DAX, and data modeling techniques, the project
 
 ---
 
+### Executive Workforce Wellness Overview
+
+<img width="1292" height="722" alt="image" src="https://github.com/user-attachments/assets/9c2fcb77-0462-44f0-a8b6-edf125e106a6" />
+
+---
+
+## Project Status
+**Completed**
+✅ Database Design, SQL Analysis Framework, SQL Views, Power BI Data Modeling, DAX Measures, Dashboard Development
+
+**In Progress**
+🔄 Dashboard Refinement
+
+**Planned**
+🚀 FastAPI Analytics Application
+
+
+---
 # Business Problem
 
 Organizations invest heavily in employee wellness initiatives, engagement programs, rewards systems, and wellness campaigns. However, leadership teams often struggle to understand whether these initiatives are improving employee well-being and reducing burnout.
@@ -300,57 +318,6 @@ Business-specific analytical views were created to support reporting and dashboa
 
 ---
 
-# Power BI Dashboard
-
-The project includes a four-page executive dashboard.
-
-## Page 1 – Executive Workforce Wellness Overview
-
-Features:
-
-* KPI Summary Cards
-* Engagement Distribution
-* Burnout Distribution
-* Participation Distribution
-* Department Wellness Analysis
-* Wellness Dimension Analysis
-
----
-
-## Page 2 – Risk & Workforce Behaviour Analysis
-
-Features:
-
-* Burnout Risk Analysis
-* Work Mode Analysis
-* Participation Behaviour Analysis
-* Workforce Risk Insights
-
----
-
-## Page 3 – Program Effectiveness & Culture Analysis
-
-Features:
-
-* Wellness Activity Effectiveness
-* Reward Effectiveness
-* Event Participation Analysis
-* Leadership & Team Culture Analysis
-
----
-
-## Page 4 – Executive Insights & Recommendations
-
-Features:
-
-* Key Findings
-* Strategic Recommendations
-* Wellness Impact Conclusions
-* Actionable Business Insights
-
-
----
-
 # Key Business Outcomes
 
 The platform enables organizations to:
@@ -406,35 +373,11 @@ Capabilities:
 
 ---
 
-# Dashboard Preview
-
-
-### Executive Workforce Wellness Overview
-
-<img width="1292" height="722" alt="image" src="https://github.com/user-attachments/assets/9c2fcb77-0462-44f0-a8b6-edf125e106a6" />
-
-
-
+## Files
+- `workforce_wellness_analysis.sql` — SQL queries, views, and analysis framework
+-  Power BI dashboard screenshot
 
 ---
-
-# Project Status
-
-## Completed
-
-✅ Database Design, SQL Analysis Framework, SQL Views, Power BI Data Modeling, DAX Measures, Dashboard Development
-
-## In Progress
-
-🔄 Dashboard Refinement
-
-
-## Planned
-
-🚀 FastAPI Analytics Application
-
----
-
 # Author
 
 **Sreelakshmi V T**
