@@ -8,11 +8,6 @@ Built using MySQL, SQL, Power BI, DAX, and data modeling techniques, the project
 
 ---
 
-### Executive Workforce Wellness Overview
-
-<img width="1292" height="722" alt="image" src="https://github.com/user-attachments/assets/9c2fcb77-0462-44f0-a8b6-edf125e106a6" />
-
----
 
 ## Project Status
 **Completed**
