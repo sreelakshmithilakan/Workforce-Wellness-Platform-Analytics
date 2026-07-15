@@ -1,4 +1,4 @@
-# Workforce Wellness Analytics using SQL
+# Workforce Wellness Platform Analytics 
 
 ## Employee Engagement, Burnout Risk & Workforce Insights
 
