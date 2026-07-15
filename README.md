@@ -4,7 +4,7 @@
 
 A SQL-based workforce analytics project that explores employee engagement, burnout risk, participation behavior, and wellness program effectiveness using a relational MySQL database.
 
-The project demonstrates how SQL can transform operational workforce data into meaningful business insights through relational database design, reusable analytical views, and business-focused queries.
+The project transforms operational workforce data into meaningful business insights through relational database design, reusable analytical views, and business-focused queries.
 
 ---
 
