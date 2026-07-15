@@ -139,9 +139,9 @@ The project is organized around key workforce analytics themes.
 
 The workforce was segmented into three burnout risk categories:
 
-- **37.9%** Low Risk
-- **32.7%** Moderate Risk
-- **29.3%** High Risk
+- Low Risk
+- Moderate Risk
+- High Risk
 
 This demonstrates how SQL-based segmentation can help identify employees who may benefit from proactive wellness initiatives.
 
